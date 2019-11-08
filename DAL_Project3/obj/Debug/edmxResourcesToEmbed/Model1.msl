@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SearchFilesDBModelStoreContainer" CdmEntityContainer="SearchFilesDBEntities1">
+    <EntitySetMapping Name="SearchFileTBL">
+      <EntityTypeMapping TypeName="SearchFilesDBModel.SearchFileTBL">
+        <MappingFragment StoreEntitySet="SearchFileTBL">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="FILE_NAME" ColumnName="FILE_NAME" />
+          <ScalarProperty Name="DIR_NAME" ColumnName="DIR_NAME" />
+          <ScalarProperty Name="RESULT" ColumnName="RESULT" />
+          <ScalarProperty Name="DATE" ColumnName="DATE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

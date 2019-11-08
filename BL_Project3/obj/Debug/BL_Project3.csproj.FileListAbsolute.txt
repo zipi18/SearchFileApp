@@ -1,0 +1,15 @@
+c:\users\new\Source\Repos\BL_Project3\BL_Project3\bin\Debug\BL_Project3.dll.config
+c:\users\new\Source\Repos\BL_Project3\BL_Project3\bin\Debug\BL_Project3.dll
+c:\users\new\Source\Repos\BL_Project3\BL_Project3\bin\Debug\BL_Project3.pdb
+c:\users\new\Source\Repos\BL_Project3\BL_Project3\bin\Debug\DAL_Project3.dll
+c:\users\new\Source\Repos\BL_Project3\BL_Project3\bin\Debug\EntityFramework.dll
+c:\users\new\Source\Repos\BL_Project3\BL_Project3\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\new\Source\Repos\BL_Project3\BL_Project3\bin\Debug\DAL_Project3.pdb
+c:\users\new\Source\Repos\BL_Project3\BL_Project3\bin\Debug\DAL_Project3.dll.config
+c:\users\new\Source\Repos\BL_Project3\BL_Project3\bin\Debug\EntityFramework.xml
+c:\users\new\Source\Repos\BL_Project3\BL_Project3\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\new\Source\Repos\BL_Project3\BL_Project3\obj\Debug\BL_Project3.csprojAssemblyReference.cache
+c:\users\new\Source\Repos\BL_Project3\BL_Project3\obj\Debug\BL_Project3.csproj.CoreCompileInputs.cache
+c:\users\new\Source\Repos\BL_Project3\BL_Project3\obj\Debug\BL_Project3.csproj.CopyComplete
+c:\users\new\Source\Repos\BL_Project3\BL_Project3\obj\Debug\BL_Project3.dll
+c:\users\new\Source\Repos\BL_Project3\BL_Project3\obj\Debug\BL_Project3.pdb
